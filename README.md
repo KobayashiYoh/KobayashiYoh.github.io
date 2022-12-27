@@ -1,1 +1,0 @@
-# KobayashiYoh.github.io
