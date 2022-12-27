@@ -1,6 +1,6 @@
 {
-    "name": "omikuji2021",
-    "short_name": "omikuji2021",
+    "name": "web_deploy",
+    "short_name": "web_deploy",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
